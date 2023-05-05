@@ -9,4 +9,3 @@ Drives Varios de otras materias:
 Clases:
 * https://drive.google.com/drive/u/2/folders/1ZNFWQslerkyu2erbAPtoTYn4b-48Hgdw (Sirne)
 * https://drive.google.com/drive/u/2/folders/1kwbR-EFoM4QkO2MWx3RY848uhpuzcscf (Acero)
-* https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ (De algebra2, hacer copia en un drive mio)
