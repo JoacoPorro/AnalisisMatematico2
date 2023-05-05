@@ -1,8 +1,7 @@
 # AnalisisMatematico2
 Material de Análisis Matemático 2 FIUBA
 
-Drives Varios de otras materias:
-* https://drive.google.com/drive/folders/0BxuqHS6B2O0oLTFfaGNkN2N2UlU?resourcekey=0-1jPURpPuWl0GHPFIsaG9Kw&usp=share_link
+Drives Varios de otras materias:\
 * https://drive.google.com/drive/u/2/folders/1EJVKcSFM3kU-Wj3Dx4yBqnJNv17axSdd
 
 Clases:
