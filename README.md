@@ -1,4 +1,4 @@
-# AnalisisMatematico2
+# Analisis Matematico II
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
 ##### Dejame una ⭐!
 
