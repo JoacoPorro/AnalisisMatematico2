@@ -8,7 +8,12 @@
 
 ### Clases Grabadas:
 * [Sirne](https://drive.google.com/drive/folders/1ZNFWQslerkyu2erbAPtoTYn4b-48Hgdw)
-* [Acero](https://drive.google.com/drive/folders/1kwbR-EFoM4QkO2MWx3RY848uhpuzcscf) 
+* [Acero](https://drive.google.com/drive/folders/1kwbR-EFoM4QkO2MWx3RY848uhpuzcscf)
+
+### Videos:
+* [Teoria](https://www.youtube.com/playlist?list=PLovUfzQicsXtmp6FcripzKR5CgGfiFL9o)
+* [Guia resuelta en detalle](https://www.youtube.com/playlist?list=PLovUfzQicsXtGZz53C-VJpkjhSCRpuuzQ)
+* [Parciales y Finales](https://www.youtube.com/playlist?list=PLovUfzQicsXve14fq9TaObnYJcogzUK1T)
 
 ### Links:
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:61:03)
