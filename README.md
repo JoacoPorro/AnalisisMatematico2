@@ -19,7 +19,7 @@
 * [analisis2.com](https://analisis2.com/) (de Maulhardt)
 
 ### Tips:
-* Las clases no valen mucho la pena, si no toman lista pueden estudiar con los resueltos y videos teoricos, y directamente no ir    
+* Las clases suelen no valen mucho la pena, si ven que no le aporta mucho no vayan. Si no toman lista pueden estudiar con los resueltos y videos teoricos, y directamente no ir    
 * Estudien con resueltos. Para preparar finales y parciales tambien hagan examenes viejos
 * Revisen finales y parciales recientes para ver que suelen tomar. Hay ciertos tipos de ejercicios que nunca toman y otros que toman casi siempre. Es importante ver el formato de los examenes.
 
