@@ -3,8 +3,7 @@
 
 ### Drives:
 * https://drive.google.com/drive/folders/1EJVKcSFM3kU-Wj3Dx4yBqnJNv17axSdd
-* https://drive.google.com/drive/folders/1-6rH7m0udQf93lYsk3v7tKn9qQ4bcXr9 (Guias Resueltas)
-* (Estoy buscando mas drives, si alguno tiene mi mail esta arriba)
+* https://drive.google.com/drive/folders/1-6rH7m0udQf93lYsk3v7tKn9qQ4bcXr9
 
 ### Clases Grabadas:
 * [Sirne](https://drive.google.com/drive/folders/1ZNFWQslerkyu2erbAPtoTYn4b-48Hgdw)
