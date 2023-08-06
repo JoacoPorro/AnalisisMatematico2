@@ -11,7 +11,7 @@
 
 ### Videos:
 * [Teoria](https://www.youtube.com/playlist?list=PLovUfzQicsXtmp6FcripzKR5CgGfiFL9o)
-* [Guia resuelta en detalle](https://www.youtube.com/playlist?list=PLovUfzQicsXtGZz53C-VJpkjhSCRpuuzQ) __Ver__
+* [Guia resuelta en detalle](https://www.youtube.com/playlist?list=PLovUfzQicsXtGZz53C-VJpkjhSCRpuuzQ) __VER__
 * [Parciales y Finales](https://www.youtube.com/playlist?list=PLovUfzQicsXve14fq9TaObnYJcogzUK1T)
 
 ### Links:
