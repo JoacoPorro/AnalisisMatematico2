@@ -23,5 +23,5 @@
 * Estudien con resueltos. Para preparar finales y parciales tambien hagan examenes viejos
 * Revisen finales y parciales recientes para ver que suelen tomar. Hay ciertos tipos de ejercicios que nunca toman y otros que toman casi siempre. Es importante ver el formato de los examenes.
 
-### Dejame **⭐** Arriba
+### Deja **⭐** Arriba
 ### Viva la Libertad Carajo! 
