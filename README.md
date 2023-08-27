@@ -24,6 +24,7 @@
 * [analisis2.com](https://analisis2.com/) __de Maulhardt__
 
 ### Tips:
+* Si no saben donde conseguir material vean [Fiuba Repos](https://fede.dm/FIUBA-Repos/) y [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias)
 * Las clases suelen valer poco la pena, si ven que no les aporta mucho no vayan. Si no toman lista pueden estudiar con los resueltos y videos teoricos, y directamente no ir. Ir a las clases no te garantiza nada en realidad, en general hacen mucho incapie en cosas teoricas de poca utilidad a la hora de aprobar los examenes y en 3 horas de clase aprendes algo que si lo hubieras buscado directamente en un libro o video, lo hubieras aprendido igual y sin perder tanto tiempo en cosas que no importan y en ir y volver de la facultad. Ir o no esta en vos (a menos que tomen lista)
 * Estudien con resueltos. Para preparar finales y parciales tambien hagan examenes viejos
 * Revisen finales y parciales recientes para ver que suelen tomar. Hay ciertos tipos de ejercicios que nunca toman y otros que toman casi siempre. Es importante ver el formato de los examenes
