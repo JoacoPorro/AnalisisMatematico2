@@ -1,5 +1,4 @@
 # Material Analisis Matematico II FIUBA
-###### Drives --> repos.libertarias@gmail.com
 
 ### Drives:
 * https://drive.google.com/drive/folders/1iFR7Q3-qaJ55XU35rDpTSyB3Yhn1xZeo
@@ -31,6 +30,6 @@
 
 
 
-##### [Ver mas Repos Libertarias](https://github.com/jporro?tab=repositories&q=&type=&language=&sort=stargazers)
+##### [Ver mas Repos](https://github.com/jporro?tab=repositories&q=&type=&language=&sort=stargazers)
 ### Deja **⭐** Arriba
 ### Viva la Libertad Carajo! 
